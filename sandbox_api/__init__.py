@@ -462,9 +462,10 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         try:
             #Connect to SQL
             server = 'tcp:octopusdigitalsql.database.windows.net'
-            database = database_name #Production_Replica
-            username = os.environ["sql_username"] 
-            password = os.environ["Database_Key"]
+            database = database_name #'OMNIConnect_Staging' #'DemoOmniconnect'
+            username = 'octopusdigital' 
+            # password = os.environ["Database_Key"]
+            password = 'avanceon@786'
             # password = os.environ["Database_Key"]
             cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
             cursor = cnxn.cursor()

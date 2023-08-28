@@ -16,7 +16,7 @@ natsort
 azure.iot.device
 requests
 azure.eventhub
-
+flashtext
 
 
 

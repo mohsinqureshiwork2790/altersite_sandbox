@@ -1,0 +1,122 @@
+[
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "addition",
+    "Mapped_Formula": "R1+R2",
+    "Calculated_Mapped_Name": "C2278"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "subtraction",
+    "Mapped_Formula": "R1-10",
+    "Calculated_Mapped_Name": "C2279"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "multiplication",
+    "Mapped_Formula": "R1*2",
+    "Calculated_Mapped_Name": "C2280"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "division",
+    "Mapped_Formula": "R1/2",
+    "Calculated_Mapped_Name": "C2281"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "brakcets",
+    "Mapped_Formula": "(R1+R2)*1",
+    "Calculated_Mapped_Name": "C2282"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "cos",
+    "Mapped_Formula": "cos(R1)",
+    "Calculated_Mapped_Name": "C2283"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "sin",
+    "Mapped_Formula": "sin(R1)",
+    "Calculated_Mapped_Name": "C2284"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "tan",
+    "Mapped_Formula": "tan(R1)",
+    "Calculated_Mapped_Name": "C2285"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "sec",
+    "Mapped_Formula": "1/cos(R1)",
+    "Calculated_Mapped_Name": "C2286"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "cot",
+    "Mapped_Formula": "cos(R1)/sin(R1)",
+    "Calculated_Mapped_Name": "C2287"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "csc",
+    "Mapped_Formula": "1/sin(R1)",
+    "Calculated_Mapped_Name": "C2288"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "pie",
+    "Mapped_Formula": "2*pi()*R1",
+    "Calculated_Mapped_Name": "C2289"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "underroot",
+    "Mapped_Formula": "1/(R1)",
+    "Calculated_Mapped_Name": "C2290"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "Eulers",
+    "Mapped_Formula": "2.7182+R1",
+    "Calculated_Mapped_Name": "C2291"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "naturalLog",
+    "Mapped_Formula": "log(R1)",
+    "Calculated_Mapped_Name": "C2292"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "log",
+    "Mapped_Formula": "R1*log(10)",
+    "Calculated_Mapped_Name": "C2293"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "10x",
+    "Mapped_Formula": "pow(10,R1)",
+    "Calculated_Mapped_Name": "C2294"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "xy",
+    "Mapped_Formula": "pow(R1,R2)",
+    "Calculated_Mapped_Name": "C2295"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "square",
+    "Mapped_Formula": "pow(R1,2)",
+    "Calculated_Mapped_Name": "C2296"
+  },
+  {
+    "Site_Id_FK": 885,
+    "C_Tag_Name": "sqrt",
+    "Mapped_Formula": "sqrt(R1)",
+    "Calculated_Mapped_Name": "C2297"
+  }
+]
