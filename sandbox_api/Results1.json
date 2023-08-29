@@ -1,0 +1,18 @@
+[
+  {
+    "MF_Id": 386,
+    "MF_Tag_Name": "Pie",
+    "Value": 3.14,
+    "Type": "Manual",
+    "Unit": null,
+    "IsTotalizer": "0",
+    "Description": null,
+    "Created_by": "siadminsa",
+    "Updated_by": null,
+    "Created_date": "2023-07-11T05:39:23.86",
+    "Updated_date": null,
+    "Asset_Id_FK": null,
+    "MF_Mapped_Name": "M386",
+    "Site_Id_FK": 855
+  }
+]
